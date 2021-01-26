@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/components/Forum/Forum.css"],"names":[],"mappings":"AAAA,WACE,8BACF,CAEA,OACE,eAAgB,CAChB,eACF","file":"14.49a46b6d.chunk.css","sourcesContent":[".editModal {\n  font-family: Montserrat-Regular;\n}\n\n.forum {\n  margin-top: 13vh;\n  padding-top: 2vh;\n}\n"]}
