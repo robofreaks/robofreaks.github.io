@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="95.968" height="77.146" viewBox="0 0 95.968 77.146">
-  <g id="triangles" transform="translate(0 0.013)">
-    <path id="XMLID_2_" d="M0,70.049,38.652,3.5,76.969,70.049Z" transform="translate(0 7.083)" fill="#06bfad"/>
-    <path id="XMLID_1_" d="M5.5,67.049,44.152.5,82.469,67.049Z" transform="translate(12.986)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.027"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="95.968" height="77.146" viewBox="0 0 95.968 77.146"><g id="triangles" transform="translate(0 0.013)"><path id="XMLID_2_" fill="#06bfad" d="M0,70.049,38.652,3.5,76.969,70.049Z" transform="translate(0 7.083)"/><path id="XMLID_1_" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.027" d="M5.5,67.049,44.152.5,82.469,67.049Z" transform="translate(12.986)"/></g></svg>
