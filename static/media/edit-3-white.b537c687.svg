@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="13.482" height="12.872" viewBox="0 0 13.482 12.872">
-  <g id="edit-3" transform="translate(-2.5 -2.379)">
-    <path id="Path_1115" data-name="Path 1115" d="M12,20h6.241" transform="translate(-2.759 -5.249)" fill="white" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-    <path id="Path_1116" data-name="Path 1116" d="M12.361,3.31a1.471,1.471,0,1,1,2.08,2.08L5.774,14.058,3,14.751l.693-2.774Z" transform="translate(0)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="13.482" height="12.872" viewBox="0 0 13.482 12.872"><g id="edit-3" transform="translate(-2.5 -2.379)"><path id="Path_1115" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M12,20h6.241" data-name="Path 1115" transform="translate(-2.759 -5.249)"/><path id="Path_1116" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M12.361,3.31a1.471,1.471,0,1,1,2.08,2.08L5.774,14.058,3,14.751l.693-2.774Z" data-name="Path 1116" transform="translate(0)"/></g></svg>
