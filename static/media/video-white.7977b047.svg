@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="17.427" height="11" viewBox="0 0 17.427 11"><g id="video" transform="translate(-1 -5)"><path id="Path_1113" fill="#fff" d="M21.545,7,16,10.961l5.545,3.961Z" data-name="Path 1113" transform="translate(-3.118 -0.416)"/><rect id="Rectangle_96" width="13" height="11" fill="#fff" data-name="Rectangle 96" rx="2" transform="translate(1 5)"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="17.427" height="11" viewBox="0 0 17.427 11">
+  <g id="video" transform="translate(-1 -5)">
+    <path id="Path_1113" data-name="Path 1113" d="M21.545,7,16,10.961l5.545,3.961Z" transform="translate(-3.118 -0.416)" fill="white"/>
+    <rect id="Rectangle_96" data-name="Rectangle 96" width="13" height="11" rx="2" transform="translate(1 5)" fill="white"/>
+  </g>
+</svg>
